@@ -1,0 +1,29 @@
+{
+  "name": "sound-booster",
+  "version": "1.0.0",
+  "description": "Professional Sound Booster PWA - Real-time audio amplification and processing",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "lucide-react": "^0.376.0",
+    "next": "^14.1.0",
+    "postcss": "^8.4.32",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/react": "^18.2.46",
+    "@types/react-dom": "^18.2.18",
+    "typescript": "^5.3.3"
+  },
+  "optionalDependencies": {
+    "@ducanh2912/next-pwa": "^10.4.2"
+  }
+}
